@@ -1,0 +1,18 @@
+.layout {
+    display: flex;
+}
+
+.main-content {
+    margin-left: 272px;
+    padding: 20px;
+    width: 100%;
+    min-height: 100vh;
+    background-color: #f9fafb;
+    transition: margin-left 0.3s;
+}
+
+@media (max-width: 768px) {
+    .main-content {
+        margin-left: 0;
+    }
+}

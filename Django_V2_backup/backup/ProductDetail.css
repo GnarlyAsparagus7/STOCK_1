@@ -1,0 +1,14 @@
+.product-detail-container {
+    padding: 20px;
+    /* Padding around the container */
+}
+
+.product-detail-container h2 {
+    margin-bottom: 20px;
+    /* Space below the heading */
+}
+
+.product-detail-container p {
+    margin: 5px 0;
+    /* Space between paragraphs */
+}
